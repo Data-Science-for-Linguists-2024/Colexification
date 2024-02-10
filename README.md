@@ -2,4 +2,4 @@
 
 **Author:** Teresa Davison
 
-**Summary:** Invesitgation into colexification of concepts within language families or geographical areas.
+**Summary:** Investigation into colexification of concepts within language families or geographical areas.
