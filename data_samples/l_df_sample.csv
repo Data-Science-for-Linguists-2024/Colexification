@@ -1,0 +1,201 @@
+ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,dataset_ID,Form_count
+slk,Slovak,slov1269,Slovak,slk,Eurasia,48.545705,18.78479,Indo-European,northeuralex,1129.0
+Suba,Suba,suba1238,,sxb,Africa,-0.95719,34.1033,Atlantic-Congo,tls,833.0
+Ankwe,Ankwe,goem1240,,ank,Africa,8.74455,9.72453,Afro-Asiatic,kraftchadic,432.0
+307,Nivaclé,niva1238,Nivaclé,cag,South America,-22.8557,-61.7606,Matacoan,ids,1556.0
+waris,Waris,wari1266,Waris,wrs,Papunesia,-3.139,140.931,Border,transnewguineaorg,144.0
+lama1277-minga,Mingar,ming1256,,lmj,,,,Austronesian,lexirumah,196.0
+Zigua,Zigua,zigu1242,,,Africa,-5.61864,38.4114,Atlantic-Congo,tls,791.0
+keoo1238,"Keo, Udiworowatu",keoo1238,,xxk,Papunesia,-8.8704,121.256,Austronesian,lexirumah,1976.0
+bine-masingle,Bine (Masingle Dialect),masi1270,Masingle,bon,Papunesia,,,Eastern Trans-Fly,transnewguineaorg,152.0
+isirawa,Isirawa,isir1237,Isirawa,srl,Papunesia,-1.88775,138.595,Greater Kwerba,transnewguineaorg,12.0
+29200,Tagalog,taga1270,Tagalog,tgl,Papunesia,14.06,121.747,Austronesian,diacl,107.0
+422,Langja Buyang,emab1235,E'ma Buyang,yzg,Eurasia,23.604572,106.030277,Tai-Kadai,ids,1153.0
+Yangzhou,Yangzhou,yang1306,Yangzhou Mandarin,,,32.4171449,119.209227,Sino-Tibetan,beidasinitic,835.0
+Muinane,Muinane,muin1242,Muinane,bmr,South America,-0.8652,-72.4249,Boran,hubercolumbian,535.0
+pamosu,pamosu,pamo1253,Pamosu,hih,Papunesia,-4.69874,145.288,Nuclear Trans New Guinea,zgraggenmadang,1208.0
+santaana,Santa Ana,sant1414,Santa Ana (Solomon Islands),,Papunesia,,,Austronesian,tryonsolomon,315.0
+Sonjo,Sonjo,temi1247,,soz,Africa,-2.19303,35.8035,Atlantic-Congo,tls,781.0
+Maring,Maring,mari1416,Maring Naga,nng,Eurasia,24.2854,94.0723,Sino-Tibetan,marrisonnaga,306.0
+Bungu,Bungu,bung1265,,wun,Africa,-8.32587,32.8801,Atlantic-Congo,tls,1516.0
+255,Waorani,waor1240,Waorani,auc,South America,-1.12312,-76.683,Waorani,ids,1230.0
+elseng,Elseng,else1239,Elseng,mrf,Papunesia,-3.00176,140.418,Elseng,transnewguineaorg,134.0
+kokota,Kokota,koko1269,Kokota,kkk,Papunesia,-8.16481,159.191,Austronesian,tryonsolomon,317.0
+Tangale,Tangale,nucl1696,,tan,Africa,9.75444,11.3228,Afro-Asiatic,kraftchadic,414.0
+tehit,Tehit,tehi1237,Tehit,kps,Papunesia,-1.51049,131.985,West Bird's Head,transnewguineaorg,39.0
+Yaqui,Yaqui,yaqu1251,Yaqui,yaq,North America,29.9446,-110.681,Uto-Aztecan,wold,1608.0
+danaru,danaru,dana1254,Danaru,dnr,Papunesia,-5.53634,145.457,Nuclear Trans New Guinea,zgraggenmadang,1280.0
+18400,Kilivila,kili1267,Kilivila,kij,Papunesia,-8.72574,151.072,Austronesian,diacl,90.0
+ndi,Ndi,ndii1241,Ndi (Solomon Islands),,Papunesia,,,Austronesian,tryonsolomon,263.0
+Ngizim,Ngizim,ngiz1242,,ngi,Africa,12.1051,11.0178,Afro-Asiatic,kraftchadic,426.0
+one-inebu,"One, Inebu",ineb1235,Inebu One,oin,Papunesia,-3.38015,141.892,Nuclear Torricelli,transnewguineaorg,45.0
+Ukalawa,Ukalawa,ukal1234,Ukalawa,,,-9.18589,35.28047,Atlantic-Congo,mitterhoferbena,196.0
+barapasi,Barapasi,bara1375,Barapasi,brp,Papunesia,-2.28732,137.054,Geelvink Bay,transnewguineaorg,38.0
+Gava,Gava,gudu1252,,gdf,Africa,11.1057,13.7893,Afro-Asiatic,kraftchadic,450.0
+kanum,Kanum,ngka1235,Ngkontar Ngkolmpu,kcd,Papunesia,-8.87044,140.818,Morehead-Wasur,transnewguineaorg,41.0
+Alyawarr,Alyawarr,alya1239,Alyawarr,aly,Australia,-21.0427,136.835,Pama-Nyungan,bowernpny,290.0
+Gudu,Gudu,gudu1250,,gdu,Africa,10.1206,12.5359,Afro-Asiatic,kraftchadic,434.0
+68476,Gagauz,gaga1249,Gagauz,gag,Eurasia,44.5988,28.0277,Turkic,diacl,97.0
+Manda,Manda,mand1423,,mgs,Africa,-10.3991,34.7424,Atlantic-Congo,tls,796.0
+baruga-tafota,Baruga (Tafota Dialect),tafo1238,Tafota Baruga,bjz,Papunesia,,,Nuclear Trans New Guinea,transnewguineaorg,570.0
+21700,Madurese,nucl1460,Madurese,mad,Papunesia,-7.0,113.0,Austronesian,diacl,99.0
+Warumungu,Warumungu,waru1265,Warumungu,wrm,Australia,-20.6479,134.375,Pama-Nyungan,bowernpny,301.0
+Kakua,Kakua,cacu1241,Kakua,cbv,South America,0.88778,-69.5659,Kakua-Nukak,hubercolumbian,400.0
+Nyaturucha,Nyaturucha,chah1242,,,Africa,,,Atlantic-Congo,tls,789.0
+nginia,Nginia,ngin1246,Nginia,,Papunesia,,,Austronesian,tryonsolomon,329.0
+malagheti,Malagheti,mala1483,Malagheti,,Papunesia,,,Austronesian,tryonsolomon,327.0
+199,Old Church Slavonic,chur1257,Church Slavic,chu,Eurasia,43.7171,22.8442,Indo-European,ids,1502.0
+lama1277-horow,"Adonara Lamaholot, Horowura",horo1249,,adr,,,,Austronesian,lexirumah,199.0
+wantoat-yagawak,Wantoat (Yagawak Dialect),yaga1259,Yagawak,wnc,Papunesia,,,Nuclear Trans New Guinea,transnewguineaorg,55.0
+Nyangumarta,Nyangumarta,nyan1301,Nyangumarta,nna,Australia,-20.6271,121.391,Pama-Nyungan,bowernpny,312.0
+251,Yaruro,pume1238,Pumé,yae,South America,7.10677,-67.5996,Pumé,ids,1139.0
+wiru,Wiru,wiru1244,Wiru,wiu,Papunesia,-6.35863,144.214,Wiru,transnewguineaorg,186.0
+kaki-ae,Kaki Ae,kaki1249,Kaki Ae,tbd,Papunesia,-7.9946,145.816,Kaki Ae,transnewguineaorg,100.0
+amol,Amol,amol1235,Mol,alx,Papunesia,-3.46843,142.532,Nuclear Torricelli,transnewguineaorg,44.0
+Curripaco,Curripaco,curr1243,Curripaco,kpc,South America,0.69618,-67.5028,Arawakan,hubercolumbian,344.0
+Nunu,Nunu,nunu1247,Nunu,,Eurasia,,,Hmong-Mien,chenhmongmien,797.0
+awera,Awera,awer1241,Awera,awr,Papunesia,-2.71886,136.063,Lakes Plain,transnewguineaorg,201.0
+Magar,Magar,maga1261,Magar,,,,,Sino-Tibetan,halenepal,621.0
+proto-eastern-central,Proto-Eastern-Central,goro1272,Goroka,,,,,Nuclear Trans New Guinea,transnewguineaorg,76.0
+kabola-pitumbang,Kabola (Pitumbang Dialect),pint1252,Pintumbang,klz,Papunesia,,,Timor-Alor-Pantar,transnewguineaorg,114.0
+marovo,Marovo,maro1244,Marovo,mvo,Papunesia,-8.37943,157.747,Austronesian,tryonsolomon,329.0
+Angas,Angas,ngas1240,,anc,Africa,9.32042,9.46146,Afro-Asiatic,kraftchadic,423.0
+west-makian,West Makian,west2600,West Makian,mqs,Papunesia,0.45332,127.63,North Halmahera,transnewguineaorg,255.0
+sinaugoro,Sinaugoro,sina1266,Sinaugoro,snc,Papunesia,-9.79791,147.861,Austronesian,transnewguineaorg,236.0
+57000,Megrelian,ming1252,Mingrelian,xmf,Eurasia,42.5129,41.8719,Kartvelian,diacl,322.0
+ap-ma,Ap Ma,apma1241,Ap Ma,kbx,Papunesia,-4.35147,144.085,Ap Ma,transnewguineaorg,179.0
+Yidiny,Yidiny,yidi1250,Yidiñ,yii,Australia,-17.1332,145.876,Pama-Nyungan,bowernpny,255.0
+JinchuanErkairGyalrong,rGyalrong (Jinchuan Erkai),shan1274,Stodsde,jih,Eurasia,32.225,102.63,Sino-Tibetan,naganorgyalrongic,747.0
+Mien,Mien,iumi1238,Iu Mien,ium,Eurasia,20.83,101.17,Hmong-Mien,chenhmongmien,808.0
+30700,Saisyat,sais1237,Saisiyat,xsy,Papunesia,24.6043,121.067,Austronesian,diacl,160.0
+Manange,Manange,mana1288,Manange,nmm,Eurasia,28.6416,84.0515,Sino-Tibetan,wold,1123.0
+38400,Middle Breton,midd1359,Middle Breton,xbm,,,,Indo-European,diacl,173.0
+Nyaturuwil,Nyaturuwil,nyat1246,,rim,Africa,-5.12263,34.6657,Atlantic-Congo,tls,771.0
+MathiMathi,Mathi-Mathi,madh1244,Madhi Madhi,dmd,Australia,-34.5,143.5,Pama-Nyungan,bowernpny,202.0
+46000,Romani (Hungarian Vend),west2927,Western Hungarian Vend,,,,,Indo-European,diacl,244.0
+34400,Oro Eo,orow1243,Oro Win,orw,South America,-10.737,-64.0299,Chapacuran,diacl,1277.0
+koitabu,Koitabu,koit1244,Koitabu,kqi,Papunesia,-9.36877,147.079,Koiarian,transnewguineaorg,145.0
+nimboran,Nimboran,nucl1633,Nimboran,nir,Papunesia,-2.5803,140.179,Nimboranic,transnewguineaorg,40.0
+201,Serbo-Croatian,sout1528,Serbian-Croatian-Bosnian,hbs,Eurasia,,,Indo-European,ids,2119.0
+54900,Walloon,wall1255,Walloon,wln,Eurasia,50.2235,5.14509,Indo-European,diacl,108.0
+424,Sanchong Kelao,gree1278,Hagei Gelao,giq,Eurasia,22.5632,104.698,Tai-Kadai,ids,1025.0
+masi1269,"Cia-Cia, Masiri",masi1269,,cia,Papunesia,,,Austronesian,lexirumah,417.0
+bine-drageli,Bine (Drageli Dialect),irup1239,Irupi-Drageli,bon,Papunesia,,,Eastern Trans-Fly,transnewguineaorg,300.0
+Zhoucheng,Zhoucheng,zhou1234,Zhoucheng,,,25.8958633,100.0987848,Sino-Tibetan,allenbai,501.0
+girawa,girawa,gira1247,Girawa,bbr,Papunesia,-5.35342,145.423,Nuclear Trans New Guinea,zgraggenmadang,1444.0
+Njanye,Njanye,nzan1240,,nja,Africa,10.0666,13.3343,Afro-Asiatic,kraftchadic,420.0
+Itambo,Itambo,itam1234,Itambo,,,-9.36073,35.32647,Atlantic-Congo,mitterhoferbena,87.0
+proto-binandere,Proto-Binandere,bina1279,Binanderean,,,,,Nuclear Trans New Guinea,transnewguineaorg,319.0
+ankave,Ankave,anka1246,Ankave,aak,Papunesia,-7.19444,145.754,Angan,transnewguineaorg,104.0
+malango,Malango,mala1484,Malango,mln,Papunesia,-9.61383,160.118,Austronesian,tryonsolomon,346.0
+duna,Duna,duna1248,Duna,duc,Papunesia,-5.41439,142.475,Duna,transnewguineaorg,201.0
+528,Rutul (Ikhrek dialect),ixre1238,Ixreko-Muxrek,,Eurasia,,,Nakh-Daghestanian,ids,3029.0
+gaina,Gaina,gain1243,Gaina,gcn,Papunesia,-9.14409,148.59,Nuclear Trans New Guinea,transnewguineaorg,651.0
+42,Hinuq,hinu1240,Hinuq,gin,Eurasia,42.4502,45.8064,Nakh-Daghestanian,ids,1748.0
+sma,Southern Sami,sout2674,South Saami,sma,Eurasia,62.8801,13.7006,Uralic,northeuralex,1095.0
+Qeqchi,Q'eqchi',kekc1242,Kekchí,kek,North America,15.3788,-89.2452,Mayan,wold,1993.0
+ykg,Northern Yukaghir,nort2745,Northern Yukaghir,ykg,Eurasia,70.498,157.853,Yukaghir,northeuralex,874.0
+Dimina,Dí̵mi̵na,mala1522,Malayo,mbp,South America,10.9286,-73.4056,Chibchan,hubercolumbian,343.0
+fasu,Fasu,fasu1242,Fasu,faa,Papunesia,-6.62687,143.284,Fasu,transnewguineaorg,418.0
+gresi,Gresi,gres1240,Gresi,grs,Papunesia,-2.72229,140.279,Nimboranic,transnewguineaorg,40.0
+Rukiga,Rukiga,chig1238,,cgg,Africa,-1.04387,29.9122,Atlantic-Congo,tls,807.0
+310,Tehuelche,tehu1242,Tehuelche,teh,South America,-47.5796,-68.3235,Chonan,ids,862.0
+Higighye,Higi Ghye,hyaa1239,,hya,Africa,10.4814,13.526,Afro-Asiatic,kraftchadic,429.0
+514,Dargwa (Urakhi dialect),urax1238,Uraxa,,Eurasia,,,Nakh-Daghestanian,ids,1533.0
+kat,Georgian,nucl1302,Georgian,kat,Eurasia,41.850397,43.78613,Kartvelian,northeuralex,1449.0
+mulaha,Mulaha,mula1254,Mulaha,mfw,Papunesia,-9.68333,147.45,Kwalean,transnewguineaorg,135.0
+Lvhyia,Lvhyia,saam1283,,lsm,Africa,0.3652,34.0335,Atlantic-Congo,tls,1700.0
+itik,Itik,itik1240,Itik,itx,Papunesia,-2.18342,139.341,Tor-Orya,transnewguineaorg,37.0
+Kanamalenga,Kanamalenga,kana1293,Kanamalenga,,,-8.91872,34.63776,Atlantic-Congo,mitterhoferbena,296.0
+lama1277-kalik,"Central Lembata, Kalikasa",kali1300,,lvu,Papunesia,,,Austronesian,lexirumah,862.0
+823,Chut (Ruc variety),rucc1239,Ruc,,Eurasia,,,Austroasiatic,ids,96.0
+Changsha,Changsha,chan1326,Changsha,,,28.85032,112.943344,Sino-Tibetan,beidasinitic,796.0
+bosmun,Bosmun,bosn1248,Bosngun,bqs,Papunesia,-4.16201,144.647,Lower Sepik-Ramu,transnewguineaorg,60.0
+415,Sui,suii1243,Sui,swi,Eurasia,24.0488,106.563,Tai-Kadai,ids,1523.0
+proto-west-tariku,Proto-West-Tariku,west2582,West Tariku,,,,,Lakes Plain,transnewguineaorg,124.0
+Bora,Bora,bora1263,Bora,boa,South America,-2.91467,-68.9093,Boran,hubercolumbian,1150.0
+Mbabaram,Mbabaram,mbab1239,Mbabaram,vmb,Australia,-20.1389,143.438,Pama-Nyungan,bowernpny,178.0
+bahinemo,Bahinemo,bahi1254,Bahinemo,bjh,Papunesia,-4.55527,142.832,Sepik,transnewguineaorg,121.0
+kuli1254,Kulisusu,kuli1254,,vkl,Papunesia,-4.58411,123.045,Austronesian,lexirumah,221.0
+gizra-waidoro,Gizra (Waidoro Dialect),waid1239,Waidoro,tof,Papunesia,,,Eastern Trans-Fly,transnewguineaorg,182.0
+48300,Assamese,assa1263,Assamese,asm,Eurasia,26.0876,91.2932,Indo-European,diacl,91.0
+slv,Slovene,slov1268,Slovenian,slv,Eurasia,46.2543,14.7766,Indo-European,northeuralex,1202.0
+SherpaTibetan,Tibetan (Sherpa),sher1255,Solu-Khumbu Sherpa,xsr,Eurasia,27.674,86.9994,Sino-Tibetan,halenepal,390.0
+39200,Gaulish,tran1282,Transalpine Gaulish,xtg,Eurasia,43.97,3.3,Indo-European,diacl,191.0
+yis,Yis,yiss1240,Yis,yis,Papunesia,-3.57371,141.88,Nuclear Torricelli,transnewguineaorg,44.0
+west2547-welaun,Welaun,west2547,,,,,,Austronesian,lexirumah,857.0
+seba1248,"Hawu, Seba",seba1248,,hvn,Papunesia,,,Austronesian,lexirumah,466.0
+ghari,Ghari,ghar1239,Ghari,gri,Papunesia,-9.4791,159.917,Austronesian,tryonsolomon,338.0
+kusaghe,Kusaghe,kusa1251,Kusaghe-Njela,ksg,Papunesia,-8.04056,157.463,Austronesian,tryonsolomon,317.0
+704,Mahasu Pahari (Kotghari dialect),maha1287,Mahasu Pahari,bfz,Eurasia,31.0088,77.5317,Indo-European,ids,1115.0
+onabasulu,Onabasulu,onob1238,Onobasulu,onn,Papunesia,-6.30876,142.776,Bosavi,transnewguineaorg,179.0
+aramo,Pinai-Hagahai (Aramo Dialect),pina1252,Pinai-Hagahai,pnn,Papunesia,-5.12624,144.137,Piawi,transnewguineaorg,389.0
+Ngwaxi,Ngwaxi,nggw1242,,ngx,Africa,10.6058,12.9234,Afro-Asiatic,kraftchadic,428.0
+mawes,Mawes,mawe1251,Mawes,mgk,Papunesia,-2.36944,139.752,Mawes,transnewguineaorg,39.0
+11600,Buru,buru1303,Buru (Indonesia),mhs,Papunesia,-3.43957,126.632,Austronesian,diacl,952.0
+TangnianYangAn,Tangnian,anya1244,Anyang,,Eurasia,,,Tai-Kadai,castrosui,1035.0
+madi,Madi,madi1261,Madi (Papua New Guinea),grg,Papunesia,-5.63017,146.407,Nuclear Trans New Guinea,transnewguineaorg,56.0
+muyu-north,"Muyu, North",nort2916,North Muyu,kti,Papunesia,-5.55319,140.84,Nuclear Trans New Guinea,transnewguineaorg,99.0
+moere,moere,moer1240,Moere,mvq,Papunesia,-4.62246,145.458,Nuclear Trans New Guinea,zgraggenmadang,1154.0
+236,Maori,maor1246,Maori,mri,Papunesia,-38.2881,176.541,Austronesian,ids,2261.0
+409,Shan,shan1277,Shan,shn,Eurasia,21.5995,98.0342,Tai-Kadai,ids,3367.0
+71,Azerbaijani,nort2697,North Azerbaijani,azj,Eurasia,40.9777,46.4737,Turkic,ids,4389.0
+burum,Somba-Siawari (Burum Dialect),buru1306,Burum-Mindik,bmu,Papunesia,-6.51663,147.333,Nuclear Trans New Guinea,transnewguineaorg,390.0
+SichuanYi,Nosu,sich1238,Sichuan Yi,iii,Eurasia,28.1947,102.121,Sino-Tibetan,satterthwaitetb,352.0
+demisa,Demisa,demi1242,Demisa,dei,Papunesia,-2.54564,136.694,Geelvink Bay,transnewguineaorg,104.0
+vangunu,Vangunu,vang1243,Vangunu,mpr,Papunesia,-8.66826,157.997,Austronesian,tryonsolomon,334.0
+yawa,Yawa,nucl1454,Yawa,yva,Papunesia,-1.77196,136.263,Yawa-Saweru,transnewguineaorg,40.0
+270,Chipaya,chip1262,Chipaya,cap,South America,-18.73951,-67.89633,Uru-Chipaya,ids,1010.0
+liab1237,Liabuku,liab1237,,lix,Papunesia,-5.32268,122.699,Austronesian,lexirumah,177.0
+kmr,Northern Kurdish,nort2641,Northern Kurdish,kmr,Eurasia,37.0,43.0,Indo-European,northeuralex,1174.0
+Rupa,Rupa,rupa1234,Rupa,,,,,Sino-Tibetan,bodtkhobwa,564.0
+Panyjima,Panyjima,pany1241,Panytyima,pnw,Australia,-22.7816,118.723,Pama-Nyungan,bowernpny,277.0
+Orejon,Orejón,orej1242,Maijiki,ore,South America,-2.86315,-72.4926,Tucanoan,hubercolumbian,286.0
+24000,Palawan,bata1301,Batak,bya,Papunesia,10.1115,119.025,Austronesian,diacl,155.0
+koto1251,Kotos Amarasi,koto1251,,aaz,Papunesia,,,Austronesian,lexirumah,663.0
+827,Ahlao Th,aheu1239,Thavung,thm,Eurasia,17.7655,104.229,Austroasiatic,ids,891.0
+anamgura,anamgura,anam1248,Anamuxra,imi,Papunesia,-4.63762,144.991,Nuclear Trans New Guinea,zgraggenmadang,1320.0
+Venetianstd,Venetian-std,vene1258,Venetian,vec,Eurasia,45.503581,12.214167,Indo-European,logos,625.0
+bine,Bine,bine1240,Bine,bon,Papunesia,-9.08879,142.893,Eastern Trans-Fly,transnewguineaorg,2.0
+Wiradjuri,Wiradjuri,wira1262,Wiradhuri,wrh,Australia,-34.0742,145.994,Pama-Nyungan,bowernpny,320.0
+41600,Frisian,west2354,Western Frisian,fry,Eurasia,53.143,5.86091,Indo-European,diacl,149.0
+suabo,Suabo,suab1238,Suabo,szp,Papunesia,-2.07971,132.157,Inanwatan,transnewguineaorg,40.0
+komyandaret,Komyandaret,komy1238,Komyandaret,kzv,Papunesia,-5.25453,140.213,Nuclear Trans New Guinea,transnewguineaorg,205.0
+BugunKaspi,Bugun Kaspi,kasp1234,Kaspi,,,,,Sino-Tibetan,abrahammonpa,230.0
+ninggerum,Ninggerum,ning1274,Ninggerum,nxr,Papunesia,-5.43194,141.158,Nuclear Trans New Guinea,transnewguineaorg,79.0
+49800,Konkani,konk1267,Maharashtrian Konkani,knn,Eurasia,19.2414,73.9166,Indo-European,diacl,47.0
+kazukuru,Kazukuru,kazu1245,Kazukuru,kzk,Papunesia,-8.23886,157.687,Austronesian,tryonsolomon,129.0
+209,Tocharian A,tokh1242,Tokharian A,xto,Eurasia,42.98,89.18,Indo-European,ids,740.0
+Chapalaachi,Cha'palaachi,chac1249,Cha'palaa,cbi,South America,0.71489,-79.0508,Barbacoan,hubercolumbian,1936.0
+52700,Prasun,pras1239,Prasuni,prn,Eurasia,35.1731,70.8004,Indo-European,diacl,105.0
+Latinstd,Latin-std,lati1261,Latin,lat,Eurasia,41.9026,12.4502,Indo-European,logos,4304.0
+23200,Casiguran Dumagat,casi1235,Casiguran-Nagtipunan Agta,dgc,Papunesia,16.2176,121.878,Austronesian,diacl,69.0
+Anong,Anong,nung1282,Nung (Myanmar),nun,Eurasia,27.2887,98.7333,Sino-Tibetan,suntb,869.0
+238,Rapa Nui,rapa1244,Rapanui,rap,Papunesia,-27.113,-109.342,Austronesian,ids,1402.0
+rihua,Rihu'a,rihu1237,Rihu'a,,Papunesia,,,Austronesian,tryonsolomon,321.0
+proto-south-binandere,Proto-South-Binandere,sout2934,South Binanderean,,,,,Nuclear Trans New Guinea,transnewguineaorg,38.0
+nalca,Nalca,nalc1240,Nalca,nlc,Papunesia,-4.26068,139.883,Nuclear Trans New Guinea,transnewguineaorg,41.0
+alor-baranusa-kabir,Alor (Baranusa Kabir Dialect),alor1247,Alorese,aol,Papunesia,-8.20382,124.264,Austronesian,transnewguineaorg,7559.0
+13200,Eastern Fijian,fiji1243,Fijian,fij,Papunesia,-18.0,178.33,Austronesian,diacl,86.0
+tur,Turkish,nucl1301,Turkish,tur,Eurasia,39.8667,32.8667,Turkic,northeuralex,1274.0
+Songhai_Senni,Songhai_Senni,humb1243,Humburi Senni Songhay,hmb,Africa,15.2948,-1.69301,Songhay,hantganbangime,267.0
+bariji,Bariji,bari1290,Bariji,bjc,Papunesia,-9.231,148.454,Yareban,transnewguineaorg,27.0
+7600,Bunun,bunu1267,Bunun,bnn,Papunesia,23.4116,121.025,Austronesian,diacl,206.0
+830,Pear,pear1247,Pear,pcb,Eurasia,13.593,105.028,Austroasiatic,ids,1212.0
+indo1317,Bajau,indo1317,,bdl,Papunesia,-3.68664,122.253,Austronesian,lexirumah,179.0
+mailu-domara,Mailu (Domara Dialect),doma1262,Domara,mgu,Papunesia,,,Mailuan,transnewguineaorg,265.0
+801,Bulang,blan1242,Blang,blr,Eurasia,22.0092,99.7405,Austroasiatic,ids,3718.0
+sause,Sause,saus1247,Sause,sao,Papunesia,-3.16632,139.627,Sause,transnewguineaorg,23.0
+54,Khwarshi (Inkhokvari dialect),inxo1238,Inxokvari,,Eurasia,,,Nakh-Daghestanian,ids,1474.0
+naue1237,Naueti,naue1237,,nxa,Papunesia,-8.70733,126.741,Austronesian,lexirumah,461.0
+312,Gününa Küne,puel1244,Puelche,pue,South America,-36.6376,-62.9413,Puelche,ids,758.0
+komo1261,Komodo,komo1261,,kvh,Papunesia,-8.64518,119.477,Austronesian,lexirumah,629.0
+negr1235,"Kokoda, Negeri Besar",negr1235,,xod,,,,South Bird's Head Family,lexirumah,153.0
+Fipa,Fipa,fipa1238,,fip,Africa,-7.88963,31.3442,Atlantic-Congo,tls,807.0
+mum,mum,mumm1238,Mum,kqa,Papunesia,-4.83462,145.059,Nuclear Trans New Guinea,zgraggenmadang,1428.0
+KambaKitu,Kamba_kitu,kamb1297,,kam,Africa,-1.60827,37.9532,Atlantic-Congo,tls,824.0
+Shuizhuping,Shuizhuping,west1506,Western Lalu,ywl,Eurasia,24.73,98.9,Sino-Tibetan,yanglalo,967.0
+282,Yaminahua,yami1256,Yaminahua,yaa,South America,-9.8846,-71.5964,Pano-Tacanan,ids,1347.0
+maiwa,Maiwa,maiw1251,Maiwa (Papua New Guinea),mti,Papunesia,-9.69836,149.274,Dagan,transnewguineaorg,245.0
+MaerkangJaphugrGyalrong,rGyalrong (Maerkang Japhug Shaerzong (B)),gdon1234,Gdongbrgyad-Kamnyu,,,,,Sino-Tibetan,naganorgyalrongic,790.0
+momuna,Momuna,momu1241,Momuna,mqf,Papunesia,-5.04431,139.26,Somahai,transnewguineaorg,34.0

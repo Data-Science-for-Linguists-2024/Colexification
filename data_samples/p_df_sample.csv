@@ -1,0 +1,501 @@
+ID,Name,Concepticon_ID,Concepticon_Gloss,dataset_ID,Ontological_Category,Semantic_Field
+368_tail,tail,1220,TAIL,satterthwaitetb,Person/Thing,The body
+1152_toshout,to shout,715,SHOUT,wold,Action/Process,Speech and language
+to-stand-up,to stand up,570,STAND UP,transnewguineaorg,Action/Process,Motion
+514_thering,the ring,1374,RING,wold,Person/Thing,Clothing and grooming
+1156_scrapegrace,"scrape, grace",1767,SCRAPE,tls,Action/Process,Food and drink
+741_towalk,to walk,1443,WALK,wold,Action/Process,Motion
+137_sheanuttree,shea nut tree,454,SHEA NUT TREE,kraftchadic,Person/Thing,Agriculture and vegetation
+188_why,why?,1270,WHY,mitterhoferbena,Other,Cognition
+64_daytime,daytime,1225,DAY (NOT NIGHT),yanglalo,Person/Thing,Time
+297_excrement,excrement,675,FAECES (EXCREMENT),yanglalo,Person/Thing,The body
+333,shin,186,SHIN,bantubvd,Person/Thing,The body
+841_black,black,163,BLACK,suntb,Property,Sense perception
+691,sew (up),1457,SEW,chenhmongmien,Action/Process,Clothing and grooming
+850_fatmeat,fat (meat),323,FAT (ORGANIC SUBSTANCE),suntb,Person/Thing,The body
+169_vomit,vomit,1278,VOMIT,halenepal,Action/Process,The body
+269_throat,THROAT,1346,THROAT,hantganbangime,Person/Thing,The body
+and,and,1577,AND,lexirumah,Other,Cognition
+176,"good, beautiful",1035,GOOD,bantubvd,Property,Emotions and values
+eye,eye,1248,EYE,lexirumah,Person/Thing,The body
+211_swallowvt,swallow (vt),897,SWALLOW,naganorgyalrongic,Action/Process,Food and drink
+486_onefirst,one (first),728,FIRST,castrosui,Other,Quantity
+ear,ear,1247,EAR,transnewguineaorg,Person/Thing,The body
+1399_thesinewortendon,the sinew or tendon,1137,TENDON,wold,Person/Thing,The body
+432_king,king,1508,KING,northeuralex,Person/Thing,Social and political relations
+to_pull,pull,1455,PULL,lexirumah,Action/Process,Basic actions and technology
+345_sour,sour,1906,SOUR,satterthwaitetb,Property,Sense perception
+snot,snot,208,NASAL MUCUS (SNOT),transnewguineaorg,Person/Thing,The body
+860_knock,knock,2396,KNOCK,northeuralex,Action/Process,Motion
+189,mosquito,1509,MOSQUITO,chenhmongmien,Person/Thing,Animals
+992_why,why?,1270,WHY,yanglalo,Other,Cognition
+1487_upabove,"up, above",1741,ABOVE,tls,Other,Spatial relations
+551_thebed,the bed,1663,BED,wold,Person/Thing,The house
+380_skirt,skirt,1600,SKIRT,suntb,Person/Thing,Clothing and grooming
+67_cave,cave,1155,CAVE,bowernpny,Person/Thing,The physical world
+517_ripe,ripe,178,RIPE,northeuralex,Property,Food and drink
+68_charcoal,charcoal,1188,CHARCOAL,bowernpny,Person/Thing,The physical world
+58_medicine,medicine,1372,MEDICINE,mitterhoferbena,Person/Thing,The body
+1520_washtakeabath,"wash, take a bath",1453,WASH,tls,Action/Process,Basic actions and technology
+179_right,right,1725,CORRECT (RIGHT),sohartmannchin,Property,Emotions and values
+635_thesugarcane,the sugar cane,146,SUGAR CANE,wold,Person/Thing,Agriculture and vegetation
+120_hair,HAIR,1040,HAIR,hantganbangime,Person/Thing,The body
+157,forest,420,FOREST,bantubvd,Person/Thing,The physical world
+737_come,come,1446,COME,suntb,Action/Process,Motion
+173_vegetable,vegetable,924,VEGETABLES,naganorgyalrongic,Person/Thing,Food and drink
+194_horse,horse,615,HORSE,kraftchadic,Person/Thing,Animals
+760_warm,warm,1232,WARM,beidasinitic,Property,Sense perception
+324_far,far,1406,FAR,hubercolumbian,Property,Spatial relations
+460_sgyou,² sG; you,1215,THOU,castrosui,Other,Kinship
+160_elephant,elephant,1290,ELEPHANT,bodtkhobwa,Person/Thing,Animals
+665_thinkv,think (v),2271,THINK,naganorgyalrongic,Action/Process,Cognition
+173_wall,,933,WALL (OF HOUSE),allenbai,Person/Thing,The house
+11-280,"harm, injure, damage",3195,DAMAGE OR INJURE,ids,Action/Process,Possession
+177_tail,tail,1220,TAIL,suntb,Person/Thing,The body
+205_daughter,daughter,1357,DAUGHTER,northeuralex,Person/Thing,Kinship
+village,village,930,VILLAGE,lexirumah,Person/Thing,Social and political relations
+811_red,red,156,RED,yanglalo,Property,Sense perception
+145,cat,1208,CAT,chenhmongmien,Person/Thing,Animals
+111_cotton,cotton,1850,COTTON,bodtkhobwa,Person/Thing,Clothing and grooming
+303_throat,throat,1346,THROAT,bowernpny,Person/Thing,The body
+15_beside,BESIDE,1816,BESIDE,hantganbangime,Other,Spatial relations
+29_bird,bird,937,BIRD,satterthwaitetb,Person/Thing,Animals
+245_far,far,1406,FAR,marrisonnaga,Property,Spatial relations
+308,river,666,RIVER,bantubvd,Person/Thing,The physical world
+603_sweep,sweep,230,SWEEP,beidasinitic,Action/Process,Basic actions and technology
+586_forge,forge,288,FORGE,tls,Action/Process,Basic actions and technology
+779_destroy,destroy,681,DESTROY,yanglalo,Action/Process,Possession
+98_dry,dry,1398,DRY,halenepal,Property,Sense perception
+721_hide,hide,602,HIDE (CONCEAL),tls,Action/Process,Spatial relations
+147_ashes,ashes,646,ASH,tryonsolomon,Person/Thing,The physical world
+253_dry,dry,1398,DRY,zgraggenmadang,Property,Sense perception
+188_village,village,930,VILLAGE,zgraggenmadang,Person/Thing,Social and political relations
+276_daughter,daughter,1357,DAUGHTER,castrosui,Person/Thing,Kinship
+16_twenty,twenty,1710,TWENTY,kraftchadic,Number,Quantity
+491_five,five,493,FIVE,castrosui,Number,Quantity
+293,quarrel,1848,QUARREL,bantubvd,Person/Thing,Social and political relations
+54_waterfall,waterfall,943,WATERFALL,hubercolumbian,Person/Thing,The physical world
+187_send,send,1127,SEND,halenepal,Action/Process,Motion
+229_river,river,666,RIVER,robinsonap,Person/Thing,The physical world
+axe,axe,677,AXE,lexirumah,Person/Thing,Basic actions and technology
+1266_souroffoodordrink,sour (of food or drink),1906,SOUR,tls,Property,Sense perception
+144_down,down,1326,DOWN,bodtkhobwa,Other,Spatial relations
+153,fly,1504,FLY (INSECT),bantubvd,Person/Thing,Animals
+552_pigdomestic,pig (domestic),1337,PIG,marrisonnaga,Person/Thing,Animals
+599_kill,kill,1417,KILL,beidasinitic,Action/Process,The body
+102_smithing,smithing,288,FORGE,kraftchadic,Action/Process,Basic actions and technology
+363_open,open,1156,OPEN,kraftchadic,Action/Process,Spatial relations
+77_horse,horse,615,HORSE,yanglalo,Person/Thing,Animals
+677_stand,stand,1442,STAND,northeuralex,Action/Process,Spatial relations
+7-220,"door, gate",1567,DOOR,ids,Person/Thing,The house
+318_carpentersadze,carpenter's adze,290,ADZE,tls,Person/Thing,Basic actions and technology
+423,what,1236,WHAT,bantubvd,Other,Cognition
+290_broomforsweeping,broom (for sweeping),245,BROOM,tls,Person/Thing,Basic actions and technology
+to-carry,to carry,700,CARRY,transnewguineaorg,Action/Process,Motion
+265_bow,bow,994,BOW,tls,Person/Thing,Warfare and hunting
+1146_what,what,1236,WHAT,naganorgyalrongic,Other,Cognition
+173_holeincloth,hole [in cloth],1667,HOLE,satterthwaitetb,Person/Thing,Spatial relations
+957_new,new,1231,NEW,naganorgyalrongic,Property,Time
+41_themoon,the moon,1313,MOON,wold,Person/Thing,The physical world
+2-941,we (inclusive),1131,WE (INCLUSIVE),ids,Other,Kinship
+949_new,new,1231,NEW,wold,Property,Time
+454_divorce,divorce,1134,DIVORCE,tls,Person/Thing,Kinship
+root,root,670,ROOT,transnewguineaorg,Person/Thing,Agriculture and vegetation
+641_thou,thou,1215,THOU,northeuralex,Other,Kinship
+day-after-tomorrow,day after tomorrow,1179,DAY AFTER TOMORROW,transnewguineaorg,Other,Time
+181_fly,fly,1504,FLY (INSECT),kraftchadic,Person/Thing,Animals
+44,bitter,887,BITTER,bantubvd,Property,Sense perception
+211_longbow,longbow,994,BOW,castrosui,Person/Thing,Warfare and hunting
+457_todie,to die,1494,DIE,castrosui,Action/Process,The body
+434_border,border,2546,BORDER,northeuralex,Person/Thing,Social and political relations
+313_swiftfastquick,"swift, fast, quick",1631,FAST,logos,Property,Time
+216,kill,1417,KILL,bantubvd,Action/Process,The body
+273_towash,to wash,1453,WASH,abrahammonpa,Action/Process,Basic actions and technology
+78_horn,,1393,HORN (ANATOMY),diacl,Person/Thing,The body
+472_swift,swift,1631,FAST,naganorgyalrongic,Property,Time
+12-212,pick up,371,PICK UP,ids,Action/Process,Spatial relations
+216_two,two,1498,TWO,zgraggenmadang,Number,Quantity
+152_hear,hear,1408,HEAR,bowernpny,Action/Process,Sense perception
+god,God,1944,GOD,transnewguineaorg,Person/Thing,Religion and belief
+73_vegetable,vegetable,924,VEGETABLES,castrosui,Person/Thing,Food and drink
+954_now,now,1376,NOW,wold,Other,Time
+17-690,why?,1270,WHY,ids,Other,Cognition
+290_week,week,1469,WEEK,abrahammonpa,Person/Thing,Time
+260_weep,weep,1839,CRY,sohartmannchin,Action/Process,Emotions and values
+46_breakdamage,break (damage),681,DESTROY,satterthwaitetb,Action/Process,Possession
+203_vulture,vulture,1185,VULTURE,kraftchadic,Person/Thing,Animals
+322_friend,friend,1325,FRIEND,yanglalo,Person/Thing,Social and political relations
+204,root,670,ROOT,chenhmongmien,Person/Thing,Agriculture and vegetation
+223_rib,rib,801,RIB,robinsonap,Person/Thing,The body
+553_rubwithhands,rub (with hands),1449,RUB,yanglalo,Action/Process,Basic actions and technology
+969_soon,soon,703,SOON,wold,Other,Time
+774_getup,get up,1602,WAKE UP,yanglalo,Action/Process,The body
+455_bed,bed,1663,BED,suntb,Person/Thing,The house
+358_tokill,to kill,1417,KILL,wold,Action/Process,The body
+339_tokill,to kill,1417,KILL,robinsonap,Action/Process,The body
+1221_thequarrel,the quarrel,1848,QUARREL,wold,Person/Thing,Social and political relations
+1441_tofly,to fly,1441,FLY (MOVE THROUGH AIR),tls,Action/Process,Motion
+604_theroot,the root,670,ROOT,wold,Person/Thing,Agriculture and vegetation
+671_shield,shield,1064,SHIELD,logos,Person/Thing,Warfare and hunting
+732_tofly,to fly,1441,FLY (MOVE THROUGH AIR),wold,Action/Process,Motion
+562_pull,pull,1455,PULL,suntb,Action/Process,Basic actions and technology
+28_axe,axe,677,AXE,marrisonnaga,Person/Thing,Basic actions and technology
+151_lift,LIFT,501,LIFT,hantganbangime,Action/Process,Motion
+482_ear,ear,1247,EAR,tls,Person/Thing,The body
+860_lizard,lizard,632,LIZARD,naganorgyalrongic,Person/Thing,Animals
+539_weak,weak,1601,WEAK,northeuralex,Property,The body
+12-260,cover,761,COVER,ids,Action/Process,Spatial relations
+288,medicine,1372,MEDICINE,chenhmongmien,Person/Thing,The body
+377_pus,pus,1808,PUS,bodtkhobwa,Person/Thing,The body
+420_thespoon,the spoon,1378,SPOON,wold,Person/Thing,Food and drink
+314_call,call,715,SHOUT,tls,Action/Process,Speech and language
+394_thick,,1244,THICK,allenbai,Property,Spatial relations
+125_cat,cat,1208,CAT,marrisonnaga,Person/Thing,Animals
+488_thick,thick,1244,THICK,northeuralex,Property,Spatial relations
+127,elephant,1290,ELEPHANT,bantubvd,Person/Thing,Animals
+658_tobreak,to break,680,BREAK (DESTROY OR GET DESTROYED),wold,Action/Process,Basic actions and technology
+870,live (reside),363,"DWELL (LIVE, RESIDE)",chenhmongmien,Action/Process,The house
+340_daughter,daughter,1357,DAUGHTER,suntb,Person/Thing,Kinship
+817_far,far,1406,FAR,suntb,Property,Spatial relations
+394,thigh,800,THIGH,bantubvd,Person/Thing,The body
+31_bitter,bitter,887,BITTER,satterthwaitetb,Property,Sense perception
+33_hornofanimal,horn (of animal),1393,HORN (ANATOMY),mitterhoferbena,Person/Thing,The body
+308_person,person,683,PERSON,yanglalo,Person/Thing,Kinship
+76_fish,fish,227,FISH,mitterhoferbena,Person/Thing,Animals
+438_deny,deny,755,DENY,tls,Action/Process,Speech and language
+341_towakeup,to wake up,1602,WAKE UP,castrosui,Action/Process,The body
+16-251,smile,1451,SMILE,ids,Action/Process,Emotions and values
+276_wakeupv,wake up (v),1602,WAKE UP,naganorgyalrongic,Action/Process,The body
+price,price,657,PRICE,lexirumah,Person/Thing,Possession
+459_sgime,"¹ sG; I, me",1209,I,castrosui,Other,Kinship
+632_under,under,1485,BELOW OR UNDER,northeuralex,Other,Spatial relations
+660_groan,groan,716,GROAN,tls,Action/Process,Emotions and values
+14-460,evening,1629,EVENING,ids,Person/Thing,Time
+670_understandv,understand (v),1536,UNDERSTAND,naganorgyalrongic,Action/Process,Cognition
+1483_underneath,underneath,1485,BELOW OR UNDER,tls,Other,Spatial relations
+603_daughter,daughter,1357,DAUGHTER,logos,Person/Thing,Kinship
+133_flyn,fly (n),1504,FLY (INSECT),satterthwaitetb,Person/Thing,Animals
+15-690,yellow,1424,YELLOW,ids,Property,Sense perception
+675_get,get,694,GET,suntb,Action/Process,Possession
+316_child,child,2099,CHILD,yanglalo,Person/Thing,Kinship
+37_jawchin,"jaw, chin",1510,CHIN,naganorgyalrongic,Person/Thing,The body
+486_tosew,to sew,1457,SEW,wold,Action/Process,Clothing and grooming
+248_tongue,tongue,1205,TONGUE,sohartmannchin,Person/Thing,The body
+spider,spider,843,SPIDER,transnewguineaorg,Person/Thing,Animals
+to-return,to return,581,COME BACK,transnewguineaorg,Action/Process,Motion
+237_thesnail,the snail,1543,SNAIL,wold,Person/Thing,Animals
+147_small,,1246,SMALL,diacl,Property,Spatial relations
+425_price,price,657,PRICE,northeuralex,Person/Thing,Possession
+79,charcoal,1188,CHARCOAL,bantubvd,Person/Thing,The physical world
+279_dayaftertomorrow,day after tomorrow,1179,DAY AFTER TOMORROW,zgraggenmadang,Other,Time
+fig,fig,322,FIG,transnewguineaorg,Person/Thing,Food and drink
+140_kidney,kidney,489,KIDNEY,halenepal,Person/Thing,The body
+268_bed,bed,1663,BED,naganorgyalrongic,Person/Thing,The house
+50_child,child,2099,CHILD,mitterhoferbena,Person/Thing,Kinship
+524_fatgreaseoil,fat/grease/oil,323,FAT (ORGANIC SUBSTANCE),tls,Person/Thing,The body
+48_bittervi,bitter (vi),887,BITTER,bodtkhobwa,Property,Sense perception
+348_eat,eat,1336,EAT,zgraggenmadang,Action/Process,Food and drink
+353_tosleep,to sleep,1585,SLEEP,robinsonap,Action/Process,The body
+285_livestay,"live, stay",363,"DWELL (LIVE, RESIDE)",bodtkhobwa,Action/Process,The house
+903_long,long,1203,LONG,naganorgyalrongic,Property,Spatial relations
+666_topull,to pull,1455,PULL,wold,Action/Process,Basic actions and technology
+10,rain,658,RAIN (PRECIPITATION),chenhmongmien,Person/Thing,The physical world
+264_kill,kill,1417,KILL,tryonsolomon,Action/Process,The body
+977_suck,suck,1421,SUCK,logos,Action/Process,Food and drink
+212_suckvt,suck (vt),1421,SUCK,naganorgyalrongic,Action/Process,Food and drink
+347_board,board,1227,BOARD,naganorgyalrongic,Person/Thing,The house
+241_tongue,tongue,1205,TONGUE,yanglalo,Person/Thing,The body
+88_thefather,the father,1217,FATHER,wold,Person/Thing,Kinship
+7_wind,wind,960,WIND,yanglalo,Person/Thing,The physical world
+snail,snail,1543,SNAIL,transnewguineaorg,Person/Thing,Animals
+374_thick,thick,1244,THICK,satterthwaitetb,Property,Spatial relations
+98_knot,knot,760,KNOT,mitterhoferbena,Person/Thing,Basic actions and technology
+390_remember,remember,707,REMEMBER,kraftchadic,Action/Process,Cognition
+307_three,three,492,THREE,robinsonap,Number,Quantity
+3-410,horse (equine),615,HORSE,ids,Person/Thing,Animals
+360_hold,hold,1448,HOLD,hubercolumbian,Action/Process,Possession
+217_green,green,1425,GREEN,bodtkhobwa,Property,Sense perception
+199_bow,bow,994,BOW,zgraggenmadang,Person/Thing,Warfare and hunting
+872_early,early,672,EARLY,suntb,Property,Time
+381_tountie,to untie,352,UNTIE,castrosui,Action/Process,Basic actions and technology
+280_thelip,the lip,478,LIP,wold,Person/Thing,The body
+53_twins,twins,1005,TWINS,mitterhoferbena,Person/Thing,Kinship
+1045_dry,dry,1398,DRY,wold,Property,Sense perception
+195_pig,PIG,1337,PIG,hantganbangime,Person/Thing,Animals
+272_spear,spear,945,SPEAR,robinsonap,Person/Thing,Warfare and hunting
+269_wind,wind,960,WIND,sohartmannchin,Person/Thing,The physical world
+1382_takecarry,"take, carry",700,CARRY,tls,Action/Process,Motion
+97_ashes,ash(es),646,ASH,tls,Person/Thing,The physical world
+236_face,face,1560,FACE,suntb,Person/Thing,The body
+412_late,late,477,LATE,marrisonnaga,Other,Time
+264_hole,hole,1667,HOLE,logos,Person/Thing,Spatial relations
+119_flyingfox,flying fox,235,FLYING FOX,zgraggenmadang,Person/Thing,Animals
+835_how,how,1239,HOW,beidasinitic,Other,Cognition
+97_shin,shin,186,SHIN,naganorgyalrongic,Person/Thing,The body
+497_hundred,hundred,1634,HUNDRED,castrosui,Number,Quantity
+948_twenty,twenty,1710,TWENTY,yanglalo,Number,Quantity
+72_buffalo,buffalo,934,BUFFALO,bodtkhobwa,Person/Thing,Animals
+541_seizevt,seize (vt),855,SEIZE,naganorgyalrongic,Action/Process,Possession
+166_cotton,cotton,1850,COTTON,hubercolumbian,Person/Thing,Clothing and grooming
+3-850,snake,730,SNAKE,ids,Person/Thing,Animals
+393_ricehusked,"rice, husked",926,RICE,bodtkhobwa,Person/Thing,Agriculture and vegetation
+broom,broom,245,BROOM,lexirumah,Person/Thing,Basic actions and technology
+540_holdv,hold (v),1448,HOLD,naganorgyalrongic,Action/Process,Possession
+280_yousg,you (sg),1215,THOU,sohartmannchin,Other,Kinship
+662_untie,untie,352,UNTIE,suntb,Action/Process,Basic actions and technology
+320_wash,,1453,WASH,allenbai,Action/Process,Basic actions and technology
+3_moon,,1313,MOON,allenbai,Person/Thing,The physical world
+305_far,far,1406,FAR,kraftchadic,Property,Spatial relations
+23_pond,pond,2035,POND,yanglalo,Person/Thing,The physical world
+358,spear,945,SPEAR,bantubvd,Person/Thing,Warfare and hunting
+six,six,1703,SIX,transnewguineaorg,Number,Quantity
+828_hard,hard,1884,HARD,yanglalo,Property,Sense perception
+491_how,,1239,HOW,allenbai,Other,Cognition
+147_nest,nest,3549,BIRD NEST,yanglalo,Person/Thing,Animals
+531_liftcarry,"lift, carry",700,CARRY,beidasinitic,Action/Process,Motion
+131_basket,basket,1539,BASKET,tls,Person/Thing,Basic actions and technology
+279_come,come,1446,COME,tryonsolomon,Action/Process,Motion
+888_breastofwoman,breast (of woman),1402,BREAST,logos,Person/Thing,The body
+181_three,three,492,THREE,hubercolumbian,Number,Quantity
+157_beloosefaintweak,"be loose, faint, weak",1601,WEAK,tls,Property,The body
+530_underbelow,"under, below",1485,BELOW OR UNDER,bodtkhobwa,Other,Spatial relations
+876_flyv,fly (v),1441,FLY (MOVE THROUGH AIR),naganorgyalrongic,Action/Process,Motion
+rib,rib,801,RIB,lexirumah,Person/Thing,The body
+364_swallow,swallow,897,SWALLOW,zgraggenmadang,Action/Process,Food and drink
+192_drycloth,dry (cloth),1398,DRY,mitterhoferbena,Property,Sense perception
+477_thecotton,the cotton,1850,COTTON,wold,Person/Thing,Clothing and grooming
+240_wall,wall,933,WALL (OF HOUSE),naganorgyalrongic,Person/Thing,The house
+22_mountain,,639,MOUNTAIN,allenbai,Person/Thing,The physical world
+814_green,green,1425,GREEN,yanglalo,Property,Sense perception
+224_belly,belly,1251,BELLY,tls,Person/Thing,The body
+694_sway,sway,573,SWAY,northeuralex,Action/Process,Motion
+18-670,poet,1045,POET,ids,Person/Thing,Speech and language
+9-620,anvil,1648,ANVIL,ids,Person/Thing,Basic actions and technology
+chin,chin,1510,CHIN,transnewguineaorg,Person/Thing,The body
+chieftain,chieftain,301,CHIEFTAIN,lexirumah,Person/Thing,Social and political relations
+170_hide,hide,602,HIDE (CONCEAL),satterthwaitetb,Action/Process,Spatial relations
+hip,hip,1745,HIP,transnewguineaorg,Person/Thing,The body
+14_long,long,1203,LONG,halenepal,Property,Spatial relations
+913_three,three,492,THREE,wold,Number,Quantity
+689,fly,1441,FLY (MOVE THROUGH AIR),chenhmongmien,Action/Process,Motion
+111_house,house,1252,HOUSE,abrahammonpa,Person/Thing,The house
+11_father,father,1217,FATHER,zgraggenmadang,Person/Thing,Kinship
+78_come,come,1446,COME,bowernpny,Action/Process,Motion
+88_fart,fart,1159,FART,naganorgyalrongic,Action/Process,The body
+998_thespring2,the spring(2),1537,SPRINGTIME,wold,Person/Thing,Time
+807_knot,knot,760,KNOT,tls,Person/Thing,Basic actions and technology
+95_medicine,medicine,1372,MEDICINE,kraftchadic,Person/Thing,The body
+151_horn,horn,1393,HORN (ANATOMY),robinsonap,Person/Thing,The body
+46_tooth,tooth,1380,TOOTH,zgraggenmadang,Person/Thing,The body
+554,white,1335,WHITE,chenhmongmien,Property,Sense perception
+460_onehundred,,1634,HUNDRED,allenbai,Number,Quantity
+156_tree,tree,906,TREE,yanglalo,Person/Thing,Agriculture and vegetation
+623_now,now,1376,NOW,bodtkhobwa,Other,Time
+182_two,,1498,TWO,diacl,Number,Quantity
+205_garden,garden,586,GARDEN,bodtkhobwa,Person/Thing,Agriculture and vegetation
+529_green,green,1425,GREEN,northeuralex,Property,Sense perception
+323_seetr,see (tr),1409,SEE,zgraggenmadang,Action/Process,Sense perception
+387_small,,1246,SMALL,allenbai,Property,Spatial relations
+871_now,now,1376,NOW,beidasinitic,Other,Time
+212_pepperhotchili,"pepper, hot / chili",1385,PEPPER,suntb,Person/Thing,Food and drink
+813_alleverybody,"all, everybody",98,ALL,beidasinitic,Other,Quantity
+754_birth,birth,1195,GIVE BIRTH,yanglalo,Action/Process,Kinship
+15-740,hard,1884,HARD,ids,Property,Sense perception
+94_bow,bow,994,BOW,hubercolumbian,Person/Thing,Warfare and hunting
+4-430,navel,1838,NAVEL,ids,Person/Thing,The body
+182_sand,sand,671,SAND,abrahammonpa,Person/Thing,The physical world
+241_smooth,SMOOTH,1234,SMOOTH,hantganbangime,Property,Sense perception
+7-460,candle,1273,CANDLE,ids,Person/Thing,The house
+38_face,face,1560,FACE,kraftchadic,Person/Thing,The body
+57_day,day,1225,DAY (NOT NIGHT),abrahammonpa,Person/Thing,Time
+944_kill,kill,1417,KILL,northeuralex,Action/Process,The body
+295_spoon,spoon,1378,SPOON,naganorgyalrongic,Person/Thing,Food and drink
+744,cough,879,COUGH,chenhmongmien,Action/Process,The body
+92_fish,FISH,227,FISH,hantganbangime,Person/Thing,Animals
+2-370,parents,505,PARENTS,ids,Person/Thing,Kinship
+forest,forest,420,FOREST,lexirumah,Person/Thing,The physical world
+359_boardplank,board / plank,1227,BOARD,suntb,Person/Thing,The house
+315_if,if,1459,IF,hubercolumbian,Other,Cognition
+80_cane,cane,146,SUGAR CANE,bodtkhobwa,Person/Thing,Agriculture and vegetation
+wall,wall,933,WALL (OF HOUSE),transnewguineaorg,Person/Thing,The house
+69_bow,,994,BOW,diacl,Person/Thing,Warfare and hunting
+637_plaitbraid,plait; braid,1729,PLAIT OR BRAID OR WEAVE,yanglalo,Action/Process,Basic actions and technology
+444_thevegetables,the vegetables,924,VEGETABLES,wold,Person/Thing,Food and drink
+185_blood,blood,946,BLOOD,castrosui,Person/Thing,The body
+443_todisappear,to disappear,485,DISAPPEAR,castrosui,Action/Process,Motion
+19-620,"strife, quarrel",1848,QUARREL,ids,Person/Thing,Social and political relations
+490_four,four,1500,FOUR,castrosui,Number,Quantity
+2-270,child,1304,CHILD (YOUNG HUMAN),ids,Person/Thing,Kinship
+551_grab,grab,855,SEIZE,yanglalo,Action/Process,Possession
+179_near,near,1942,NEAR,mitterhoferbena,Property,Spatial relations
+188_endn,,743,END (OF TIME),diacl,Person/Thing,Time
+220_warm,warm,1232,WARM,tryonsolomon,Property,Sense perception
+321_towalk,to walk,1443,WALK,castrosui,Action/Process,Motion
+finger,finger,1303,FINGER,transnewguineaorg,Person/Thing,The body
+61_dog,dog,2009,DOG,abrahammonpa,Person/Thing,Animals
+565,early,672,EARLY,chenhmongmien,Property,Time
+mucus,mucus,208,NASAL MUCUS (SNOT),lexirumah,Person/Thing,The body
+907_correct,correct,1725,CORRECT (RIGHT),yanglalo,Property,Emotions and values
+1103_every,every,98,ALL,halenepal,Other,Quantity
+19_fish,fish,227,FISH,halenepal,Person/Thing,Animals
+541_stinky,stinky,42,STINKING,castrosui,Property,Sense perception
+507_callv,call (v),1084,CALL,naganorgyalrongic,Action/Process,Speech and language
+we-pl-incl,"we incl. plural (pronoun d:1p, incl, plural)",1131,WE (INCLUSIVE),transnewguineaorg,Other,Kinship
+702_thick,thick,1244,THICK,beidasinitic,Property,Spatial relations
+147_intestinegut,,1991,INTESTINES,allenbai,Person/Thing,The body
+133_charcoal,charcoal,1188,CHARCOAL,marrisonnaga,Person/Thing,The physical world
+275,palm of hand,1183,PALM OF HAND,bantubvd,Person/Thing,The body
+94_thedaughter,the daughter,1357,DAUGHTER,wold,Person/Thing,Kinship
+12-450,east,1877,EAST,ids,Person/Thing,Spatial relations
+391_cover,cover,761,COVER,tls,Action/Process,Spatial relations
+212_broom,,245,BROOM,allenbai,Person/Thing,Basic actions and technology
+643_slip,slip,1324,SLIP,bodtkhobwa,Action/Process,Motion
+207_lietotell,"lie, to tell",601,LIE (MISLEAD),satterthwaitetb,Action/Process,Emotions and values
+305_tendon,tendon,1137,TENDON,yanglalo,Person/Thing,The body
+654_two,two,1498,TWO,northeuralex,Number,Quantity
+438_kitchenknife,kitchen knife,2772,KITCHEN KNIFE,yanglalo,Person/Thing,Food and drink
+32_mud,mud,640,MUD,suntb,Person/Thing,The physical world
+387,tail,1220,TAIL,bantubvd,Person/Thing,The body
+sap,sap,345,SAP,transnewguineaorg,Person/Thing,Agriculture and vegetation
+pond,pond,2035,POND,transnewguineaorg,Person/Thing,The physical world
+1057_tosmile,to smile,1451,SMILE,wold,Action/Process,Emotions and values
+771_thigh,thigh,800,THIGH,marrisonnaga,Person/Thing,The body
+15-840,dry,1398,DRY,ids,Property,Sense perception
+247_thickindimension,thick (in dimension),1244,THICK,logos,Property,Spatial relations
+954_smooth,smooth,1234,SMOOTH,naganorgyalrongic,Property,Sense perception
+468_what,what,1236,WHAT,castrosui,Other,Cognition
+639_givebirth,give birth,1195,GIVE BIRTH,beidasinitic,Action/Process,Kinship
+283,pipe,1124,PIPE,bantubvd,Person/Thing,Agriculture and vegetation
+1087_rain,rain,2108,RAINING OR RAIN,tls,Person/Thing,The physical world
+1069_togroan,to groan,716,GROAN,wold,Action/Process,Emotions and values
+82_carry,carry,465,CARRY ON BACK,bodtkhobwa,Action/Process,Motion
+to_help,help,1897,HELP,lexirumah,Action/Process,Social and political relations
+11-780,wages,1122,WAGES,ids,Person/Thing,Possession
+267_eat,eat,1336,EAT,hubercolumbian,Action/Process,Food and drink
+1654_thick,thick,1244,THICK,halenepal,Property,Spatial relations
+226_bed,,1663,BED,allenbai,Person/Thing,The house
+22-120,God,1944,GOD,ids,Person/Thing,Religion and belief
+1234_rubwipe,"rub, wipe",1449,RUB,logos,Action/Process,Basic actions and technology
+203_dog,dog,2009,DOG,marrisonnaga,Person/Thing,Animals
+327_under,under,1485,BELOW OR UNDER,kraftchadic,Other,Spatial relations
+62_dog,DOG,2009,DOG,hantganbangime,Person/Thing,Animals
+61_bird,,937,BIRD,allenbai,Person/Thing,Animals
+303_ball,ball,1845,BALL,mitterhoferbena,Person/Thing,Spatial relations
+120,blood,946,BLOOD,chenhmongmien,Person/Thing,The body
+282,pig,1337,PIG,bantubvd,Person/Thing,Animals
+428_shoot,shoot,1172,SHOOT,bodtkhobwa,Action/Process,Warfare and hunting
+238_mouth,mouth,674,MOUTH,satterthwaitetb,Person/Thing,The body
+374_twenty,twenty,1710,TWENTY,robinsonap,Number,Quantity
+817_toborrow,to borrow,1823,BORROW,wold,Action/Process,Possession
+154_rain,rain,2108,RAINING OR RAIN,tryonsolomon,Person/Thing,The physical world
+312_tooth,tooth,1380,TOOTH,bowernpny,Person/Thing,The body
+2-910,I,1209,I,ids,Other,Kinship
+398_garden,garden,586,GARDEN,yanglalo,Person/Thing,Agriculture and vegetation
+275_green,green,1425,GREEN,kraftchadic,Property,Sense perception
+201_meat,,634,MEAT,allenbai,Person/Thing,Food and drink
+370_hear,hear,1408,HEAR,logos,Action/Process,Sense perception
+1449_toe,toe,1389,TOE,tls,Person/Thing,The body
+480_moon,moon,1313,MOON,marrisonnaga,Person/Thing,The physical world
+33_blunt,blunt,379,BLUNT,robinsonap,Property,Sense perception
+302_die,die,1494,DIE,zgraggenmadang,Action/Process,The body
+196_he,he,1211,HE,hubercolumbian,Other,Kinship
+736_wind,wind,960,WIND,naganorgyalrongic,Person/Thing,The physical world
+299_tendon,tendon,1137,TENDON,robinsonap,Person/Thing,The body
+3_weincl,we (incl),1131,WE (INCLUSIVE),halenepal,Other,Kinship
+223_blunt,blunt,379,BLUNT,tryonsolomon,Property,Sense perception
+866_new,new,1231,NEW,suntb,Property,Time
+5-791,"grease, fat",323,FAT (ORGANIC SUBSTANCE),ids,Person/Thing,The body
+to_sleep,sleep,1585,SLEEP,lexirumah,Action/Process,The body
+22_ashes,ashes,646,ASH,marrisonnaga,Person/Thing,The physical world
+325_thehip,the hip,1745,HIP,wold,Person/Thing,The body
+308_broom,broom,245,BROOM,beidasinitic,Person/Thing,Basic actions and technology
+172_young,,1207,YOUNG,diacl,Property,Time
+57,break wind,1159,FART,bantubvd,Action/Process,The body
+399_walk,walk,1443,WALK,satterthwaitetb,Action/Process,Motion
+115_pig,pig,1337,PIG,suntb,Person/Thing,Animals
+door,door,1567,DOOR,lexirumah,Person/Thing,The house
+223_thespider,the spider,843,SPIDER,wold,Person/Thing,Animals
+861_toopen,to open,1156,OPEN,wold,Action/Process,Spatial relations
+14-280,"cease, stop",1928,CEASE,ids,Action/Process,Time
+16_belly,belly,1251,BELLY,tryonsolomon,Person/Thing,The body
+93_four,four,1500,FOUR,abrahammonpa,Number,Quantity
+40_sugarcane,,146,SUGAR CANE,diacl,Person/Thing,Agriculture and vegetation
+270_five,five,493,FIVE,marrisonnaga,Number,Quantity
+289_walk,walk,1443,WALK,tryonsolomon,Action/Process,Motion
+851_new,new,1231,NEW,yanglalo,Property,Time
+931_shoot,shoot,1172,SHOOT,northeuralex,Action/Process,Warfare and hunting
+430_shamenoun,shame (noun),1776,SHAME,logos,Person/Thing,Emotions and values
+206_six,six,1703,SIX,sohartmannchin,Number,Quantity
+471_runvi,run (vi),1519,RUN,naganorgyalrongic,Action/Process,Motion
+18_river,river,666,RIVER,suntb,Person/Thing,The physical world
+251_shoot,shoot,1172,SHOOT,bowernpny,Action/Process,Warfare and hunting
+41_eye,eye,1248,EYE,kraftchadic,Person/Thing,The body
+336_doll,doll,1659,DOLL,northeuralex,Person/Thing,Modern world
+227_far,far,1406,FAR,tryonsolomon,Property,Spatial relations
+696_long,long,1203,LONG,beidasinitic,Property,Spatial relations
+68_bowels,bowels,1991,INTESTINES,naganorgyalrongic,Person/Thing,The body
+71_come,come,1446,COME,satterthwaitetb,Action/Process,Motion
+537_vomit,vomit,1278,VOMIT,yanglalo,Action/Process,The body
+428_arrow,arrow,977,ARROW,suntb,Person/Thing,Warfare and hunting
+9-380,broom,245,BROOM,ids,Person/Thing,Basic actions and technology
+5-710,fruit,1507,FRUIT,ids,Person/Thing,Food and drink
+877_far,far,1406,FAR,wold,Property,Spatial relations
+905_if,if,1459,IF,beidasinitic,Other,Cognition
+tongue,tongue,1205,TONGUE,transnewguineaorg,Person/Thing,The body
+5-750,fig,322,FIG,ids,Person/Thing,Food and drink
+173_feather,feather,1201,FEATHER,suntb,Person/Thing,The body
+574_price,price,657,PRICE,marrisonnaga,Person/Thing,Possession
+384_tie,tie,760,KNOT,satterthwaitetb,Person/Thing,Basic actions and technology
+125_fruit,fruit,1507,FRUIT,robinsonap,Person/Thing,Food and drink
+314_bed,bed,1663,BED,northeuralex,Person/Thing,The house
+three,three,492,THREE,lexirumah,Number,Quantity
+886_feather,feather,1201,FEATHER,logos,Person/Thing,The body
+105_buffalo,buffalo,934,BUFFALO,marrisonnaga,Person/Thing,Animals
+447_tocarryonback,to carry on back,465,CARRY ON BACK,castrosui,Action/Process,Motion
+198_thefish,the fish,227,FISH,wold,Person/Thing,Animals
+151_ringfinger,ring (finger),1374,RING,naganorgyalrongic,Person/Thing,Clothing and grooming
+385_white,white,1335,WHITE,robinsonap,Property,Sense perception
+295_swallowv,swallow (V),897,SWALLOW,mitterhoferbena,Action/Process,Food and drink
+521_sour,sour,1906,SOUR,northeuralex,Property,Sense perception
+104_dog,dog,2009,DOG,zgraggenmadang,Person/Thing,Animals
+795_tohold,to hold,1448,HOLD,wold,Action/Process,Possession
+590_fast,fast,1631,FAST,castrosui,Property,Time
+192_always,,1676,ALWAYS,diacl,Other,Time
+133_sand,,671,SAND,diacl,Person/Thing,The physical world
+179_lungs,lungs,688,LUNG,robinsonap,Person/Thing,The body
+155_axe,axe,677,AXE,kraftchadic,Person/Thing,Basic actions and technology
+135_sky,sky,1732,SKY,mitterhoferbena,Person/Thing,The physical world
+mountain,mountain,639,MOUNTAIN,transnewguineaorg,Person/Thing,The physical world
+402_knotinstring,knot (in string),760,KNOT,marrisonnaga,Person/Thing,Basic actions and technology
+316_grindwheat,,1033,GRIND,allenbai,Action/Process,Food and drink
+1004_count,count,1420,COUNT,northeuralex,Action/Process,Quantity
+74_blood,blood,946,BLOOD,kraftchadic,Person/Thing,The body
+301_bunchlanywele,bunch (la nywele),1966,BUNCH,tls,Person/Thing,Food and drink
+51_nape,nape,1347,NAPE (OF NECK),zgraggenmadang,Person/Thing,The body
+202_theshell,the shell,598,SHELL,wold,Person/Thing,Animals
+1135_roostercock,rooster (cock),1511,ROOSTER,tls,Person/Thing,Animals
+235_empty,empty,1624,EMPTY,zgraggenmadang,Property,Quantity
+52_i,I,1209,I,tls,Other,Kinship
+878_lung,lung,688,LUNG,tls,Person/Thing,The body
+7-470,shelf,745,SHELF,ids,Person/Thing,The house
+912_vomit,vomit,1278,VOMIT,logos,Action/Process,The body
+22,be afraid,1419,FEAR (BE AFRAID),bantubvd,Action/Process,Emotions and values
+618_thepipe,the pipe,1124,PIPE,wold,Person/Thing,Agriculture and vegetation
+214_basket,basket,1539,BASKET,zgraggenmadang,Person/Thing,Basic actions and technology
+232_empty,empty,1624,EMPTY,marrisonnaga,Property,Quantity
+3_moon,moon,1313,MOON,suntb,Person/Thing,The physical world
+2_two,two,1498,TWO,kraftchadic,Number,Quantity
+411_follow,follow,1085,FOLLOW,kraftchadic,Action/Process,Motion
+200,tree,906,TREE,chenhmongmien,Person/Thing,Agriculture and vegetation
+4-150,blood,946,BLOOD,ids,Person/Thing,The body
+293_snot,snot,208,NASAL MUCUS (SNOT),yanglalo,Person/Thing,The body
+939_hundred,hundred,1634,HUNDRED,suntb,Number,Quantity
+94_diebedead,die/be dead,2101,BE DEAD OR DIE,bowernpny,Action/Process,Time
+107_pepper,,1385,PEPPER,allenbai,Person/Thing,Food and drink
+1096_red,red,156,RED,tls,Property,Sense perception
+one-hundred,one hundred,1634,HUNDRED,transnewguineaorg,Number,Quantity
+1292_spreadact,spread (act),38,SPREAD OUT,tls,Action/Process,Basic actions and technology
+256_tosee,to see,1409,SEE,abrahammonpa,Action/Process,Sense perception
+599_parents,parents,505,PARENTS,logos,Person/Thing,Kinship
+358_fear,fear,1419,FEAR (BE AFRAID),hubercolumbian,Action/Process,Emotions and values
+998_palmofhand,palm (of hand),1183,PALM OF HAND,tls,Person/Thing,The body
