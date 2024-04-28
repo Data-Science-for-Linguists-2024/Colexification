@@ -104,5 +104,5 @@ Because it seems difficult to identify colexifications in the language without c
 
 On a more qualitative level, it would also be interesting to use this dataset in conjunction with outside sources to investigate patterns of colexifications for certain types of concepts with the context of the culture the language developed in. For example, was it a hunter-gatherer or agriculturally based culture and what colexifications appear with each group?
 
-Finally, it seemed limiting to have 'Eurasia' as an area, as that emcompasses many distinct geographical areas that may not have had language contact. I would be interested to see if using accepted areas of language contact, like the Balkan Sprachbund, might reveal more complex relationships between languages and patterns of colexification. 
+Finally, it seemed limiting to have 'Eurasia' as an area, as that emcompasses many distinct geographical areas that may not have had language contact. I would be interested to see if using accepted areas of language contact, like the Balkan Sprachbund, might reveal more complex relationships between languages and patterns of colexification. Additionally, inclusion of languages in the Americas for classification of geographical area would add to the robustness of results.
 
