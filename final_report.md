@@ -106,3 +106,7 @@ On a more qualitative level, it would also be interesting to use this dataset in
 
 Finally, it seemed limiting to have 'Eurasia' as an area, as that emcompasses many distinct geographical areas that may not have had language contact. I would be interested to see if using accepted areas of language contact, like the Balkan Sprachbund, might reveal more complex relationships between languages and patterns of colexification. Additionally, inclusion of languages in the Americas for classification of geographical area would add to the robustness of results.
 
+## Sources
+
+Rzymski, Christoph and Tresoldi, Tiago et al. 2019. The Database of Cross-Linguistic Colexifications, reproducible analysis of cross- linguistic polysemies. DOI: 10.1038/s41597-019-0341-x
+
