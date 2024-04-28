@@ -8,7 +8,7 @@ Though investigating individual colexifications is a great source of information
 
 ## Data sourcing
 
-The CLICS3 database is an online interface that provides a list of concepts with links to lists of colexified concepts as well as networks of related concepts (subgraphs). In order to do analysis on the data, I extracted the relevant tables from the underlying [SQL database](https://github.com/clics/clics3/blob/master/clics3.sqlite.zip), available on GitHub for download.
+The CLICS3 database is an online interface that provides a list of concepts with links to lists of colexified concepts as well as networks of related concepts (subgraphs). In order to do analysis on the data, I extracted the relevant tables from the underlying [SQL database](https://github.com/clics/clics3/blob/master/clics3.sqlite.zip), available on GitHub for download. Figuring out how these tables interacted with each other in order to extract colexifications efficiently was the most difficult part of the project.
 
 The three dataframes I chose to work with were the Language, Form and Parameter dfs. Samples of these can be found in the [data samples folder](https://github.com/Data-Science-for-Linguists-2024/Colexification-Across-the-Globe/tree/main/data_samples). 
 1. The Language dataframe contains individual languages, along with macroarea, language family and lat/longitudinal data. The distribution of languages can be seen below in Figure 1. There are:
@@ -18,9 +18,9 @@ The three dataframes I chose to work with were the Language, Form and Parameter 
 
 Figure 1. Map of languages represented in the dataset with size corresponding to the number of forms in that language
 ![Figure 1. Map of languages represented in the dataset with size corresponding to the number of forms in that language](figures/languagesFormSize.png)
-An interactive version of this map can be found in [this notebook](https://nbviewer.org/github/Data-Science-for-Linguists-2024/Colexification-Across-the-Globe/blob/main/notebooks/Final_pr.ipynb).
+An interactive version of this map can be found in cell 3 of [this notebook](https://nbviewer.org/github/Data-Science-for-Linguists-2024/Colexification-Across-the-Globe/blob/main/notebooks/Final_pr.ipynb).
 
-2. The Form dataframe contains word forms and connects these forms to the associated concepts as well as the language the form is used in. There are almost 1.5 million forms represented across the different languages. Since the dataset is a collation of 30 different datasets, different datasets have different conventions for inputting forms such as transliteration, IPA, original script. This caused a few small issues.
+2. The Form dataframe contains word forms and connects these forms to the associated concepts as well as the language the form is used in. There are almost 1.5 million forms represented across the different languages. Since the dataset is a collation of 30 different datasets, different datasets have different conventions for inputting forms such as transliteration, IPA, original script. This caused a few small issues of having duplicate entries for certain colexifications which were solved using set operations after the colexfications were generated.
     
 4. The Parameter dataframe contains concepts with unique IDs called Concepticon IDs as they use the concept-definition standard proposed in the Tenth International Conference on Language Resources and Evaluation. There is also an English gloss, semantic field, and ontological category for each concept. There are over 2900 concepts represented with information on semantic field and ontologica category for each. The distributions for these concept types can be seen below in Figures 2 and 3.
 
@@ -38,6 +38,7 @@ Given these data, I decided to sample the languages to pick a smaller number of 
 
 Figure 4. Distribution of sampled languages geographically
 ![Figure 4. Distribution of sampled languages](figures/sampleMap.png)
+An interactive version of this map can be found in cell 17 of this [notebook](https://nbviewer.org/github/Data-Science-for-Linguists-2024/Colexification-Across-the-Globe/blob/main/notebooks/progress_report3.ipynb).
 
 ### Feature Extraction
 
@@ -70,16 +71,36 @@ For the misclassification of language families, it is more difficult to see obvi
 Figure 6. Confusion matrix for X: Semantic field, y: Language family using Naive Bayes
 ![Figure 5.](figures/famXsem.png)
 
-From the most important features for these two models, 
+From the most important features for these two models, shown more extensively in slides 13 and 15 of the [presentation](https://github.com/Data-Science-for-Linguists-2024/Colexification-Across-the-Globe/blob/main/LING1340FinalPresentation.pdf), there is an interesting pattern. For the macroarea, the top 5 features are all of the form self:self, indicating colexifications of similar concepts are more important for predicting macroarea. However, for the language family, the top 5 feature are all of the form self:other, indicating that the classifications are based on colexifications of dissimilar concepts.
 
+- **Africa**: Kinship:Kinship, The_body:The_body, Basic_actions_and_technology x2, The_physical_world x2, Animals:Animals
+- **Eurasia**: Kinship:Kinship, The_body:The_body, Animals:Animals, The_physical_world x2, Spatial_relations x2
+- **Papunesia**: The_body:The_body, Kinship:Kinship, The_physical_world x2, Basic_actions_and_technology x2, Motion:Motion
 
+- **Afro-Asiatic**: Food_and_drink:The_physical_world, Speech_and_language:The_physical_world
+- **Atlantic-Congo**: Animals:The_physical_world, Speech_and_language:The_physical_world
+- **Austronesian**: Speech_and_language:The_physical_world, Food_and_drink:The_physical_world
+- **Indo-European**: Food_and_drink:The_physical_world, Speech_and_language:The_physical_world
+- **Nakh-Daghestanian**: Food_and_drink:The_physical_world, Speech_and_language:The_physical_world
+- **Nuclear Trans New Guinea**: Modern_world:The_physical_world, Animals:The_physical_world
+- **Sino-Tibetan**: Food_and_drink:The_physical_world, Social_and_political_relations:The_physical_world
+- **Timor-Alor-Pantar**: Speech_and_language:The_physical_world, Food_and_drink:The_physical_world
 
+## Conclusion
 
+In the end, it seems as though there is some relation between the type of colexifications in a language and its geographical region & language family. Geographical region in the Eastern Hemisphere is correlated with different counts of colexifications for similar concepts, while language family is related to differences in counts of colexifcations for dissimilar concepts when using semantic field as a predictor. 
+
+## History of Project
+
+Once I found the semantic field and ontological information for the concepts, I knew I would use those to make features, rather than relying on the individual concepts colexified in each language. At first, I approached the data by finding all the colexifications for a single concept across all languages. This might be useful for investigating the similarity of concepts. However, for my prediction task I pivoted to creating lists of colexifications by language and converting these into counts to use as features. I did consider using word embeddings to measure the similarity between concepts, however many of the concepts require multi-word glosses to encode separate meanings so word embeddings would not be useful in this case. My main challenge was then creating these dataframes of colexifications efficiently using the dependencies across the form, parameter and language dataframes. In the end, SQL-like queries allowed me to create lists for over 200 languages in only a few minutes.
 
 ## Future Inquiry
 
-There are packages to recreate the CLICS3 networks on a local machine using Python. Using Network theory, these could then be analyzed to give more information about the relationships between concepts. I am not currently well-versed on graph theory, however, suing the data in this form could lead to more nuanced analysis on the relationships between languages based on the concepts they colexify or research on the similarity of concepts in general.
+There are packages to recreate the CLICS3 networks on a local machine using Python. Using Network theory, these could then be analyzed to give more information about the relationships between concepts. I am not currently well-versed on graph theory, however, using the data in this form could lead to more nuanced analysis on the relationships between languages based on the concepts they colexify or research on the similarity of concepts in general.
 
+Because it seems difficult to identify colexifications in the language without comparison to other languages, I would also be curious to dig deeper into how these lists of colexifications were made and any possible drawbacks of having the concept glosses in English. This may also help me determine how representative these data are of the actual number of colexifications in any given language included.
 
+On a more qualitative level, it would also be interesting to use this dataset in conjunction with outside sources to investigate patterns of colexifications for certain types of concepts with the context of the culture the language developed in. For example, was it a hunter-gatherer or agriculturally based culture and what colexifications appear with each group?
 
+Finally, it seemed limiting to have 'Eurasia' as an area, as that emcompasses many distinct geographical areas that may not have had language contact. I would be interested to see if using accepted areas of language contact, like the Balkan Sprachbund, might reveal more complex relationships between languages and patterns of colexification. 
 
