@@ -73,10 +73,12 @@ Figure 6. Confusion matrix for X: Semantic field, y: Language family using Naive
 
 From the most important features for these two models, shown more extensively in slides 13 and 15 of the [presentation](https://github.com/Data-Science-for-Linguists-2024/Colexification-Across-the-Globe/blob/main/LING1340FinalPresentation.pdf), there is an interesting pattern. For the macroarea, the top 5 features are all of the form self:self, indicating colexifications of similar concepts are more important for predicting macroarea. However, for the language family, the top 5 feature are all of the form self:other, indicating that the classifications are based on colexifications of dissimilar concepts.
 
+Macroarea:
 - **Africa**: Kinship:Kinship, The_body:The_body, Basic_actions_and_technology x2, The_physical_world x2, Animals:Animals
 - **Eurasia**: Kinship:Kinship, The_body:The_body, Animals:Animals, The_physical_world x2, Spatial_relations x2
 - **Papunesia**: The_body:The_body, Kinship:Kinship, The_physical_world x2, Basic_actions_and_technology x2, Motion:Motion
 
+Language family:
 - **Afro-Asiatic**: Food_and_drink:The_physical_world, Speech_and_language:The_physical_world
 - **Atlantic-Congo**: Animals:The_physical_world, Speech_and_language:The_physical_world
 - **Austronesian**: Speech_and_language:The_physical_world, Food_and_drink:The_physical_world
